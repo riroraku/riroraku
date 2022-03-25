@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+layout: page
+title: "index.html"
+path: "riroraku/"
